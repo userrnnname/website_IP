@@ -1,0 +1,22 @@
+window.products = [
+    { product_id: 1, product_name: 'Дорожное худи', product_price: '₽ 3 699', product_image: 'pic/product1.png', category: 'hoodie', fabric: 'cotton' },
+    { product_id: 2, product_name: 'Терракотовая рубашка', product_price: '₽ 5 299', product_image: 'pic/product2.png', category: 'everydayshirt', fabric: 'fleece' },
+    { product_id: 3, product_name: 'Красный жакет', product_price: '₽ 4 599', product_image: 'pic/product3.png', category: 'blazer', fabric: 'nylon' },
+    { product_id: 4, product_name: 'Клетчатая рубашка', product_price: '₽ 7 499', product_image: 'pic/product4.png', category: 'everydayshirt', fabric: 'nettle' },
+    { product_id: 5, product_name: 'Бурая рубашка', product_price: '₽ 8 899', product_image: 'pic/product5.png', category: 'officialshirt', fabric: 'fleece' },
+    { product_id: 6, product_name: 'Болотный пиджак', product_price: '₽ 9 499', product_image: "pic/product6.png", category: 'blazer', fabric: 'viscose' },
+    { product_id: 7, product_name: 'Зеленые брюки', product_price: '₽ 7 999', product_image: 'pic/product7.png', category: 'trousers', fabric: 'footer' },
+    { product_id: 8, product_name: 'Бордовая жилетка', product_price: '₽ 9 699', product_image: 'pic/product8.png', category: 'vest', fabric: 'viscose' },
+    { product_id: 9, product_name: 'Бежевые брюки', product_price: '₽ 6 899', product_image: 'pic/product9.png', category: 'trousers', fabric: 'fleece' },
+    { product_id: 10, product_name: 'Клетчатый пиджак умбра', product_price: '₽ 13 299', product_image: 'pic/product10.png', category: 'blazer', fabric: 'wool' },
+    { product_id: 11, product_name: 'Серые брюки', product_price: '₽ 10 799', product_image: 'pic/product11.png', category: 'pants', fabric: 'nettle' },
+    { product_id: 12, product_name: 'Коралловый пиджак', product_price: '₽ 12 299', product_image: 'pic/product12.png', category: 'blazer', fabric: 'wool' },
+    { product_id: 13, product_name: 'Клетчатый пиджак серый', product_price: '₽ 11 799', product_image: 'pic/product13.png', category: 'blazer', fabric: 'nylon' },
+    { product_id: 14, product_name: 'Белое платье', product_price: '₽ 30 999', product_image: 'pic/product14.png', category: 'dress', fabric: 'silk' },
+    { product_id: 15, product_name: 'Шляпа', product_price: '₽ 1 899', product_image: 'pic/product15.png', category: 'headgear', fabric: 'wool' },
+    { product_id: 16, product_name: 'Кремовая футболка', product_price: '₽ 2 199', product_image: 'pic/product16.png', category: 'tshirt', fabric: 'cotton' },
+    { product_id: 17, product_name: 'Чёрный костюм', product_price: '₽ 28 899', product_image: 'pic/product17.png', category: 'costume', fabric: 'nettle' },
+    { product_id: 18, product_name: 'Белый костюм', product_price: '₽ 32 499', product_image: 'pic/product18.png', category: 'costume', fabric: 'flax' },
+    { product_id: 19, product_name: 'Шляпка женская', product_price: '₽ 8 499', product_image: 'pic/product19.png', category: 'headgear', fabric: 'nylon' },
+    { product_id: 20, product_name: 'Кожаное пальто', product_price: '₽ 55 599', product_image: 'pic/product20.png', category: 'coat', fabric: 'leather' }
+    ];
